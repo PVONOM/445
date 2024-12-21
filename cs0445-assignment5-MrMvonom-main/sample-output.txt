@@ -1,0 +1,175 @@
+*********************************
+Welcome to Four Four Five Word Puzzle Program!
+1. Read a puzzle from a file
+2. Display the puzzle
+3. Search for a path in the puzzle
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 1
+Please enter filename:
+445.txt
+Puzzle file loaded successfully!
+Press ENTER to continue ...
+
+*********************************
+Welcome to Four Four Five Word Puzzle Program!
+1. Read a puzzle from a file
+2. Display the puzzle
+3. Search for a path in the puzzle
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 3
+b l n k s r e o o m h s 
+e a o c y t s i l e o t 
+s t g a r e r t r r g t 
+d r l t a s w e s g i t 
+e o a s n n o g o e b t 
+z s t t i i t n f s e r 
+i n r j b i o a h o l o 
+t o q u i c k s o r t s 
+r i s q u e u e r t c l 
+o t x d r c h o e u e l 
+m c i a a c u s c r r e 
+a e l r e p r n n i s h 
+Please enter row number of start cell:
+0
+Please enter col number of start cell:
+0
+Please enter row number of end cell:
+2
+Please col row number of end cell:
+1
+A path with adjacent ordered letters can be found
+Press ENTER to continue ...
+
+*********************************
+Welcome to Four Four Five Word Puzzle Program!
+1. Read a puzzle from a file
+2. Display the puzzle
+3. Search for a path in the puzzle
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 3
+b l n k s r e o o m h s 
+e a o c y t s i l e o t 
+s t g a r e r t r r g t 
+d r l t a s w e s g i t 
+e o a s n n o g o e b t 
+z s t t i i t n f s e r 
+i n r j b i o a h o l o 
+t o q u i c k s o r t s 
+r i s q u e u e r t c l 
+o t x d r c h o e u e l 
+m c i a a c u s c r r e 
+a e l r e p r n n i s h 
+Please enter row number of start cell:
+8
+Please enter col number of start cell:
+11
+Please enter row number of end cell:
+8
+Please col row number of end cell:
+10
+A path with adjacent ordered letters cannot be found
+Press ENTER to continue ...
+
+*********************************
+Welcome to Four Four Five Word Puzzle Program!
+1. Read a puzzle from a file
+2. Display the puzzle
+3. Search for a path in the puzzle
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 3
+b l n k s r e o o m h s 
+e a o c y t s i l e o t 
+s t g a r e r t r r g t 
+d r l t a s w e s g i t 
+e o a s n n o g o e b t 
+z s t t i i t n f s e r 
+i n r j b i o a h o l o 
+t o q u i c k s o r t s 
+r i s q u e u e r t c l 
+o t x d r c h o e u e l 
+m c i a a c u s c r r e 
+a e l r e p r n n i s h 
+Please enter row number of start cell:
+8
+Please enter col number of start cell:
+11
+Please enter row number of end cell:
+7
+Please col row number of end cell:
+9
+A path with adjacent ordered letters cannot be found
+Press ENTER to continue ...
+
+*********************************
+Welcome to Four Four Five Word Puzzle Program!
+1. Read a puzzle from a file
+2. Display the puzzle
+3. Search for a path in the puzzle
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 3
+b l n k s r e o o m h s 
+e a o c y t s i l e o t 
+s t g a r e r t r r g t 
+d r l t a s w e s g i t 
+e o a s n n o g o e b t 
+z s t t i i t n f s e r 
+i n r j b i o a h o l o 
+t o q u i c k s o r t s 
+r i s q u e u e r t c l 
+o t x d r c h o e u e l 
+m c i a a c u s c r r e 
+a e l r e p r n n i s h 
+Please enter row number of start cell:
+8
+Please enter col number of start cell:
+11
+Please enter row number of end cell:
+7
+Please col row number of end cell:
+10
+A path with adjacent ordered letters can be found
+Press ENTER to continue ...
+
+*********************************
+Welcome to Four Four Five Word Puzzle Program!
+1. Read a puzzle from a file
+2. Display the puzzle
+3. Search for a path in the puzzle
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 3
+b l n k s r e o o m h s 
+e a o c y t s i l e o t 
+s t g a r e r t r r g t 
+d r l t a s w e s g i t 
+e o a s n n o g o e b t 
+z s t t i i t n f s e r 
+i n r j b i o a h o l o 
+t o q u i c k s o r t s 
+r i s q u e u e r t c l 
+o t x d r c h o e u e l 
+m c i a a c u s c r r e 
+a e l r e p r n n i s h 
+Please enter row number of start cell:
+0
+Please enter col number of start cell:
+0
+Please enter row number of end cell:
+11
+Please col row number of end cell:
+11
+A path with adjacent ordered letters cannot be found
+Press ENTER to continue ...
+*********************************
+Welcome to Four Four Five Word Puzzle Program!
+1. Read a puzzle from a file
+2. Display the puzzle
+3. Search for a path in the puzzle
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 4

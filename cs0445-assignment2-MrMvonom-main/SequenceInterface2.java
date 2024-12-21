@@ -12,7 +12,7 @@
  * about correctness. Items in the Sequence are comparable to each other.
  */
 
-public interface SequenceInterface<T extends Comparable<? super T>> {
+public interface SequenceInterface2<T extends Comparable<? super T>> {
 	/** Add a new item to the tail (logical end) of the SequenceInterface<T>
 	 * Runtime: O(1)
 	 * @param item the item to be added.

@@ -11,7 +11,7 @@
  * the Sequence. The items in a Sequence are not necessarily unique.
  */
 
- public interface SequenceInterface<T> {
+ public interface SequenceInterface4<T> {
 	/** Add a new item to the tail (logical end) of the SequenceInterface<T>
 	 * Runtime: O(1)
 	 * @param item the item to be added.

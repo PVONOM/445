@@ -5,7 +5,7 @@
  * interface, don't worry as much about efficiency here as you do
  * about correctness.
  */
-public interface ReorderInterface {
+public interface ReorderInterface2 {
 	/** Logically reverse the data in the ReorderInterface object so that the item
 	 * that was logically first will now be logically last and vice
 	 * versa.  The physical implementation of this can be done in
